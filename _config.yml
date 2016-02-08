@@ -9,12 +9,12 @@
 title: toashel
 email: shelchean@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-	Hi, I'm Shel! Born and raised in Auckland, New Zealand, I'm currently in my 
-	third year of a Bachelor of Science in Computer Science from the 
-	University of Auckland.
+Hi, I'm Shel! Born and raised in Auckland, New Zealand, I'm currently in my 
+third year of a Bachelor of Science in Computer Science from the 
+University of Auckland.
 
-	I am interested in creating accessible software for end users, and working in
-	programming translations. 
+I am interested in creating accessible software for end users, and working in
+programming translations. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: toashel
