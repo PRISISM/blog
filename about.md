@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi, I'm Shel! Born and raised in Auckland New Zealand, I'm currently in my third year of my Bachelor of Science in Computer Science at the University of Auckland.
+
+I am interested in creating accessible software for end users
 
 You can find the source code for the Jekyll new theme at:
 {% include icon-github.html username="jglovier" %} /
