@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/
+permalink: /projects/index.html
 ---
 These are a few projects I have worked on in my spare time. More coming soon!
 
