@@ -9,7 +9,7 @@
 title: toashel
 email: shelchean@gmail.com
 description: >+
- My blog about development, books, video games and Japanese media.
+ My blog about programming, books, video games and Japanese media.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://toashel.github.io" # the base hostname & protocol for your site
