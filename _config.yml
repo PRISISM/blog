@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: toashel
+title: Sheldon Chean
 email: shelchean@gmail.com
 description: >+
- My blog about programming, books, video games and Japanese media.
+ Nothing can happen until you swing the bat.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://toashel.github.io" # the base hostname & protocol for your site
