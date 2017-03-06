@@ -11,7 +11,7 @@ I decided on using the MEAN stack (MongoDB, Express, Angular, Node) from the beg
 
 I searched for datasets/APIs for public domain poetry, but ended up deciding on [PoetryDB](http://poetrydb.org/index.html). This is mainly due to it being the only free API I could find and the general ease of use.  However, there were a few issues that arose that I will cover during the implementation section. With the API decided, I began planning the system architecture for the application. 
 
-![Application architecture]({{site.url}}/assets/typoetry-diagram.png)
+![Application architecture]({{site.baseurl}}/assets/typoetry-diagram.png)
 
 This architecture shows a wrapper REST API that serves 2 purposes:
 * Accessing the PoetryDB API with web calls
@@ -82,7 +82,7 @@ One of the most useful additions was the **breakpoint manager** suggested in the
 
 With these optimizations and new methods in place, I then worked on the basic styles for the home page and poem page. In hindsight, my method for this was not great - I developed starting from the **largest breakpoint** as opposed to **mobile first**. After completing this project, I watched Udacity's [Responsive Web Design course](https://www.udacity.com/course/responsive-web-design-fundamentals--ud893) which showed me a lot of mistakes I made on this project.
 
-![Home]({{site.url}}/assets/typoetry-home.png)
+![Home]({{site.baseurl}}/assets/typoetry-home.png)
 
 This home 'info card' design was creating using negative margins, which may have been a bit of a hacky implementation. This project also taught me a lot about color schemes, where I used [this article](https://www.smashingmagazine.com/2016/04/web-developer-guide-color/) to create a cohesive palette with harmonious grays.
 
