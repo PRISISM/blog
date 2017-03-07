@@ -1,0 +1,19 @@
+Fix typo in Kisetsu modal
+
+# --------------
+# Please enter the commit message for your changes. Everything below
+# this paragraph is ignored, and an empty message aborts the commit.
+# Just close the window to accept your message.
+diff --git a/index.html b/index.html
+index b0e710b..d0ce2f3 100644
+--- a/index.html
++++ b/index.html
+@@ -156,7 +156,7 @@
+ 									</p>
+ 
+ 									<p>
+-										This was my second project using the MEAN stack, this time following a <strong>rapid appliation development </strong>philosophy. I took inspiration from Simon Holmes' book, <em>'Getting MEAN'</em>, and followed best practices as much as possible. It uses a wrapper API to interact with a third-party API and the main database where ratings are stored. It makes use of cookies and weighted algorithms with smoothing applied, similar to Amazon's system.
++										This was my second project using the MEAN stack, this time following a <strong>rapid application development </strong>philosophy. I took inspiration from Simon Holmes' book, <em>'Getting MEAN'</em>, and followed best practices as much as possible. It uses a wrapper API to interact with a third-party API and the main database where ratings are stored. It makes use of cookies and weighted algorithms with smoothing applied, similar to Amazon's system.
+ 
+ 										This is still in development and I am looking at adding many new features, including more build automation and Socket.io integration for viewing of live votes.
+ 									</p>

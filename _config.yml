@@ -15,6 +15,9 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://toashel.github.io" # the base hostname & protocol for your site
 twitter_username: toashel
 github_username:  toashel
-
+gems:
+ - jekyll-seo-tag
+twitter:
+ username: toashel
 # Build settings
 markdown: kramdown
