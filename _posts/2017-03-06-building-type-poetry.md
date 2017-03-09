@@ -97,7 +97,7 @@ var trimmedLines = vm.poem.lines.map(function(s) {
 	return s
 		.trim()
 		.replace('—', '--')
-		 replace('’', '\'');
+		.replace('’', '\'');
  });
 ```
 
