@@ -48,7 +48,7 @@ With basic pagination in place from [`angularUtils/pagination`](https://github.c
 
 ### Optimizing 
 
-My first order of business was to refacstor all API calls into a factory and inject it into all controllers. This way I was following best practices for Angular by separating the view from the business logic, while also creating a neater application.
+My first order of business was to refactor all API calls into a factory and inject it into all controllers. This way I was following best practices for Angular by separating the view from the business logic, while also creating a neater application.
 
 The next step was implementing a proper task runner in Gulp. To get started, I watched a fair bit of John Papa's [Pluralsight course](https://app.pluralsight.com/courses/javascript-build-automation-gulpjs). This was my first proper foray into task runners, only previously using it with wiredep for injecting dependencies. 
 
